@@ -1,17 +1,19 @@
-🍔 FoodDel - Food Delivery App (React Frontend)
-FoodDel is a responsive food delivery e-commerce app built with React.js, offering a seamless user experience for browsing restaurants, exploring menus, and placing orders.
+# **🍔 FoodDel - Food Delivery App (React Frontend)**  
 
-✨ Features
-✅ Modern UI – Clean, intuitive design with smooth animations.
-✅ Responsive Layout – Works on mobile, tablet, and desktop.
-✅ Dynamic Search & Filters – Find dishes quickly.
-✅ Cart & Checkout – Add items, apply promo codes, and proceed to checkout.
+FoodDel is a responsive food delivery e-commerce app built with React.js, offering a seamless user experience for browsing restaurants, exploring menus, and placing orders.  
 
-🛠️ Tech Stack
-Frontend: React.js (Vite / Create-React-App)
+## **✨ Features**  
+✅ Modern UI – Clean, intuitive design with smooth animations.  
+✅ Responsive Layout – Works on mobile, tablet, and desktop.  
+✅ Dynamic Search & Filters – Find dishes quickly.  
+✅ Cart & Checkout – Add items, apply promo codes, and proceed to checkout.  
 
-State Management: Context API / Redux (if used)
+## **🛠️ Tech Stack**  
 
-Styling: CSS Modules / Tailwind / Styled Components
+Frontend: React.js (Vite / Create-React-App)  
 
-Routing: React Router DOM
+State Management: Context API / Redux (if used)  
+
+Styling: CSS Modules / Tailwind / Styled Components  
+
+Routing: React Router DOM  
