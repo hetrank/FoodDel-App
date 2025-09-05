@@ -10,9 +10,7 @@ FoodDel is a responsive food delivery e-commerce app built with React.js, offeri
 
 ## **🛠️ Tech Stack**  
 
-Frontend: React.js (Vite / Create-React-App)  
-
-State Management: Context API / Redux (if used)  
+Frontend: React.js (Vite / Create-React-App)   
 
 Styling: CSS Modules / Tailwind / Styled Components  
 
